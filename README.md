@@ -11,10 +11,9 @@ AI Sentiment Analyzer is a web-based application that classifies customer review
 - Fast processing with near-instant results
 
 
+<img src="https://github.com/user-attachments/assets/44e0b978-740d-4bed-843c-493d7692872e" alt="Screenshot 1" width="600"/>
 
-![Screenshot 2025-06-09 153124](https://github.com/user-attachments/assets/44e0b978-740d-4bed-843c-493d7692872e)
-
-![Screenshot 2025-06-09 153249](https://github.com/user-attachments/assets/07016bb4-a92c-4645-b5e1-e22c7b808d62)
+<img src="https://github.com/user-attachments/assets/07016bb4-a92c-4645-b5e1-e22c7b808d62" alt="Screenshot 2" width="600"/>
 
 
 
