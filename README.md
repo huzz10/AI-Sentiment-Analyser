@@ -22,5 +22,9 @@ AI Sentiment Analyzer is a web-based application that classifies customer review
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ai-sentiment-analyzer.git
-   cd ai-sentiment-analyzer
+   git clone https://github.com/huzz10/AI-Sentiment-Analyser
+
+2. Install the Required packages
+    ```bash
+    pip install requirements.txt
+   
