@@ -27,4 +27,7 @@ AI Sentiment Analyzer is a web-based application that classifies customer review
 2. Install the Required packages
     ```bash
     pip install requirements.txt
+3. Run using
+    ```bash
+    streamlit run app.py
    
